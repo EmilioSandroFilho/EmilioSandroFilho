@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![nyan2](https://user-images.githubusercontent.com/64103690/159188693-d755d93d-81b8-4f20-860f-0e4127df0fa5.gif)
+
+
 <!--
 **EmilioSandroFilho/EmilioSandroFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
